@@ -155,10 +155,6 @@ streamlit run app.py
 ## **Notes**
 - **GPU Support**: If a GPU is available, the app will automatically use it for faster inference.
 - **Model Path**: Ensure the model is saved under the name **'bert-base-uncased-sentiment-model'** in the working directory.
-- **Docker Support**: For containerized deployment, include a **Dockerfile** with GPU support and dependencies.
-
 ---
 
-## **Author**
-This project is developed for sentiment classification using **BERT** and deployed via **Streamlit**.
 
